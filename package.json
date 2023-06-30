@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "nanoid": "^4.0.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.43.0"
   }
 }
